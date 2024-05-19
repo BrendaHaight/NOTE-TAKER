@@ -4,11 +4,11 @@ Note Taker is a web application that allows users to write, save , and delete no
 
 ## Table of Contents
 
--[Installation](#installation)
--[Usage](#usage)
--[API Endpoints](#api-endpoints)
--[Contributing](#contributing)
--[License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
@@ -20,15 +20,19 @@ git clone https://github.com/BrendaHaight/NOTE-TAKER.git
 ```
 
 2. **Navigate to the project directory**
+```
    cd NOTE-TAKER
    ```
 
 3. **Install dependencies**
-
+```
 npm install
+```
 
 4. **Start the server**
+```
 node server.js
+```
 
 ## Usage
 
