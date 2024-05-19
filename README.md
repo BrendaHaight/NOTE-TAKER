@@ -1,6 +1,6 @@
 # NOTE-TAKER
 
-Note Taker is a web application that allows users to write, save , and delete notes.
+Note Taker is a web application that allows users to write, save , and delete notes. It uses an Express.js back end to handle API requests and stores notes in a JSON file. This application helps small business owners organize their thoughts and keep track of tasks that need to be completed.
 
 ## Table of Contents
 
@@ -70,6 +70,32 @@ You will be presented with a landing page with a link to a notes page.
  ## Deployment
 
 The application is deployed on RENDER. You can acess it using the following links:
+
+`https://note-taker-l6ku.onrender.com`
+
+## Contribuing
+
+Contributions are what make the open-source community such an amazing place to be learn, inspire and create. Any contributions you make are greatly appreciated.
+
+I received the started code for this project from the US bootcamp. If you have a suggestion that would make this better, please fork the repo and create a pull resquest. You can also simply open an isssue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+1. Fork the project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes(`git commit -m "Add some AmazingFeature"`)
+4. Push to the Branch(`git push feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License 
+
+Distributed under the MIT License.
+
+__________________________________________________________________________________________________
+
+Note Taker is a simple and effective tool for managing your notes. Whether for personal use or small business,it helps keep your thoughts and tasks organized and easily accessible. Enjoy using it!
+
+`&copy;` Brenda Haight. All Rights Reserved.
+
+
 
 
     
