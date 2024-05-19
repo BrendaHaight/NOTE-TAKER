@@ -93,7 +93,7 @@ ________________________________________________________________________________
 
 Note Taker is a simple and effective tool for managing your notes. Whether for personal use or small business,it helps keep your thoughts and tasks organized and easily accessible. Enjoy using it!
 
-`&copy;`2024 Brenda Haight. All Rights Reserved.
+© 2024 Brenda Haight. All Rights Reserved.
 
 
 
