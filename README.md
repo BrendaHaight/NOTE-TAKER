@@ -71,7 +71,7 @@ You will be presented with a landing page with a link to a notes page.
 
 The application is deployed on RENDER. You can acess it using the following links:
 
-`https://note-taker-l6ku.onrender.com`
+[Note Taker Application](https://note-taker-l6ku.onrender.com)
 
 ## Contribuing
 
@@ -93,7 +93,7 @@ ________________________________________________________________________________
 
 Note Taker is a simple and effective tool for managing your notes. Whether for personal use or small business,it helps keep your thoughts and tasks organized and easily accessible. Enjoy using it!
 
-`&copy;` Brenda Haight. All Rights Reserved.
+`&copy;`2024 Brenda Haight. All Rights Reserved.
 
 
 
