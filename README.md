@@ -55,16 +55,16 @@ You will be presented with a landing page with a link to a notes page.
 ## API Endpoints
 
 - GET/api/notes
- -Retrieves all saved notes as JSON.
+ - Retrieves all saved notes as JSON.
 
 - POST/api/notes
- -Adds a new note to the JSON file and returns the new note.
- -Body parameters:
-   -`title` (string): The title of the note.
-   -`text` (string): The text of the note.
+ - Adds a new note to the JSON file and returns the new note.
+ - Body parameters:
+   - `title` (string): The title of the note.
+   - `text` (string): The text of the note.
 
 - DELETE/api/notes/:id 
-  -Deletes a note with the specific ID from the JSON file.
+  - Deletes a note with the specific ID from the JSON file.
 
  ## Deployment
 
